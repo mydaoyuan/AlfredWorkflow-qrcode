@@ -12,3 +12,4 @@
 * [node API](http://nodejs.cn/api/);
 * [CodeVar](https://github.com/xudaolong/CodeVar);
 * [alfy](https://github.com/sindresorhus/alfy);
+* [qr-image](https://github.com/alexeyten/qr-image);
