@@ -9,7 +9,18 @@
 	<key>connections</key>
 	<dict>
 		<key>CFF6BD44-C77E-483C-8DC2-4EF12BF7B757</key>
-		<array/>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1B2624BB-2C1C-42C0-B851-522BD937B2FE</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 	</dict>
 	<key>createdby</key>
 	<string>Tangdy</string>
@@ -21,6 +32,23 @@
 	<string>qrcode</string>
 	<key>objects</key>
 	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>1B2624BB-2C1C-42C0-B851-522BD937B2FE</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -69,12 +97,19 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>1B2624BB-2C1C-42C0-B851-522BD937B2FE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>440</integer>
+			<key>ypos</key>
+			<integer>220</integer>
+		</dict>
 		<key>CFF6BD44-C77E-483C-8DC2-4EF12BF7B757</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>180</integer>
 			<key>ypos</key>
-			<integer>140</integer>
+			<integer>220</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>

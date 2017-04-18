@@ -30,11 +30,13 @@ function output() {
     alfy.output([{
       type: 'file',
       title: input,
+      arg: input,
       "icon": {
         "path":__dirname + '/img/' + id + ".png"
       }
     }]);
   });
+  return qrcode;
 }
 
 output();
