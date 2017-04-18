@@ -11,3 +11,4 @@
 * [Workflows](https://www.alfredapp.com/help/workflows/);
 * [node API](http://nodejs.cn/api/);
 * [CodeVar](https://github.com/xudaolong/CodeVar);
+* [alfy](https://github.com/sindresorhus/alfy);
