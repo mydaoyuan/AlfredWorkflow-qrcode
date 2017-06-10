@@ -1,4 +1,8 @@
-## Use
+## 介绍
+这是一个Alfred的workflow插件，用于生成二维码。
+
+
+## 使用
 运行`qrcode.alfredworkflow`文件
 
 ![使用图片](./use.png)
